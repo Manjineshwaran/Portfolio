@@ -80,7 +80,7 @@ const index = () => {
             <Wrapper>
                 <Title>Visionary</Title>
                 <Desc>
-                Launching My Career: A Fresh Perspective on Full Stack Developement
+                Launching My Career: A Fresh Perspective on Data Science
                 </Desc>
                 <TimelineSection>
                     <Timeline>

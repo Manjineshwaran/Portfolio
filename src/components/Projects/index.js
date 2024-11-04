@@ -12,11 +12,11 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From websites to web apps. Here are some of my projects.
+          I have worked on a wide range of projects. Here are some of my projects.
         </Desc>
-        <ToggleButtonGroup >
+        {/* <ToggleButtonGroup >
           {toggle === 'all' ?
-            <ToggleButton active value="all" onClick={() => setToggle('all')}>All</ToggleButton>
+            <ToggleButton active value="all" onClick={() => setToggle('all')}>Project</ToggleButton>
             :
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
@@ -38,7 +38,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="landing pages" onClick={() => setToggle('landing pages')}>LANDING PAGE</ToggleButton>
           }
-        </ToggleButtonGroup>
+        </ToggleButtonGroup> */}
         <CardContainer>
           {toggle === 'all' && projects
             .map((project) => (

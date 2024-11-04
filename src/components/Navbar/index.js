@@ -14,7 +14,7 @@ const Navbar = ({ toggleTheme }) => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: theme.text_primary, marginBottom: '20', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Devfolio</Span>
+            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
           </a>
         </NavLogo>
         <MobileIcon>
