@@ -141,46 +141,58 @@ export const skills = [
     skills: [
       {
         name: "Programming",
-        image:""
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       {
         name: "Oops Concept",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       {
         name: "Machine Learning Algorithms",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       {
         name: "EDA Process",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       
       {
         name: "Deep learning",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       
       {
         name: "Natural Language Processing",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
+
       },
       
       {
         name: "Statistical Analyse",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       
       {
         name: "Model building, Evaluation and Deployment",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       
       {
         name: "Database management",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       {
         name: "Frontend and Backend development ",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       
       {
         name: "Data wrangling",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       {
         name: "Data visualization",
+        image:"https://th.bing.com/th/id/OIP.lNLxaeUEvNkI7wLDB99FPQHaDt?w=346&h=175&c=7&r=0&o=5&pid=1.7"
       },
       
 
